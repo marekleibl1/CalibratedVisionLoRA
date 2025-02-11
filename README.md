@@ -2,7 +2,7 @@
 
 # Calibration of LoRA Vision Models
 
-This project applies the Laplace approximation to calibrate a Vision Transformer model fine-tuned using Low-Rank Adaptation (LoRA). 
+This project applies the Laplace approximation to calibrate a Vision Transformer (ViT) model fine-tuned using Low-Rank Adaptation (LoRA). 
 
 ## Key Components
 - **LoRA Fine-Tuning:** Introduces a small set of trainable parameters to efficiently adapt models.
